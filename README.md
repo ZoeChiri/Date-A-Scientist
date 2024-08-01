@@ -1,12 +1,9 @@
-## Predicting User Compatibility with Machine Learning 
+## Machine Learning Project
 
 
 
 This project leverages Codecademy's dataset to construct, train, and evaluate a machine learning model aimed at predicting user compatibility.
-
-
-
-
+I appreciated the pun "Date-A-Scientist" _data scientist_.
 
 **Project Goals:** 🌱
 
